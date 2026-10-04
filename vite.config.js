@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/SIH2026-CIVIC-ME/',
+  base: '/base: "/SIH2026_Civic-me_updated/"/',
   server: {
     port: 5173,
     host: '0.0.0.0'
